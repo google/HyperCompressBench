@@ -1,0 +1,17 @@
+
+
+# Copyright 2023 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+#     Unless required by applicable law or agreed to in writing, software
+#     distributed under the License is distributed on an "AS IS" BASIS,
+#     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#     See the License for the specific language governing permissions and
+#     limitations under the License.
+
+[[22, 4096], [22, 81920], [22, 224256], [26, 49589248], [26, 21745664], [26, 49850368], [22, 87040], [32, 9805824], [5, 0], [22, 89088], [27, 6297600], [22, 84992], [26, 49774592], [22, 83968], [22, 17408], [32, 21443584], [26, 22048768], [26, 12206080], [22, 82944], [27, 7353344], [22, 27648], [26, 49591296], [26, 21695488], [26, 49783808], [22, 81920], [22, 4096], [22, 27648], [22, 224256], [26, 49488896], [26, 49792000], [27, 1584128], [26, 27258880], [22, 82944], [22, 224256], [22, 224256], [22, 88064], [26, 49781760], [26, 49782784], [26, 49780736], [22, 83968], [5, 20480], [22, 17408], [26, 50516992], [22, 88064], [27, 8396800], [26, 49785856], [22, 84992], [32, 9806848], [26, 29252608], [26, 49788928], [22, 89088], [26, 50515968], [26, 43027456], [26, 49786880], [26, 7294976], [42, 17408], [26, 49787904], [26, 50514944], [22, 87040], [26, 5421056], [26, 49789952], [26, 49784832], [32, 9807872], [26, 50513920]]
